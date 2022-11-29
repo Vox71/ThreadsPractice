@@ -1,0 +1,9 @@
+
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Šù¾¢üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŒßÊ¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë¤È
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¹ú¸U
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ØÇ³ìıÿÿÿÿ
+<	java:S131""Add a default case to this switch.(àĞŠ¹ıÿÿÿÿ
